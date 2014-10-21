@@ -151,6 +151,7 @@ _____________
 - [CSS Gradient Generator](http://www.colorzilla.com/gradient-editor/)
 - [CSS Button Generator](http://www.dextronet.com/css-buttons-generator/)
 - [LoremPixel - placeholder images](http://lorempixel.com/)
+- [Lipsum - placeholder text](http://lipsum.com/)
 - [WordMark](http://wordmark.it/)
 - [LayerStyle](http://layerstyles.org/builder.html)
 - [Border Image Generator](http://border-image.com/)
