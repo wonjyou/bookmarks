@@ -1,4 +1,3 @@
-This is a TON of helpful links. 
 
 **Search:**
 ===
