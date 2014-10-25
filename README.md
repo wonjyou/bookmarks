@@ -150,10 +150,11 @@ _____________
 
 **Typography:**
 ===
-     - [Typekit](https://typekit.com/)
-     - [Cloud Typography](http://www.typography.com/cloud/welcome/)
-     - [Adobe Web Edge Fonts](https://edgewebfonts.adobe.com/fonts)
-     - [Google Fonts (free)](https://www.google.com/fonts)
+
+- [Typekit](https://typekit.com/)
+- [Cloud Typography](http://www.typography.com/cloud/welcome/)
+- [Adobe Web Edge Fonts](https://edgewebfonts.adobe.com/fonts)
+- [Google Fonts (free)](https://www.google.com/fonts)
 
 
 _____________
