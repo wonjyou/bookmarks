@@ -85,7 +85,7 @@ _____________
 - [Animate CSS - CSS3 library](http://daneden.github.io/animate.css/)
 - [Pure - small, responsive CSS modules](http://purecss.io/)
 - [Unheap - jQuery plugins](http://www.unheap.com/)
-
+- [js Beautifier](http://jsbeautifier.org/)
 
 
 
