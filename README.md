@@ -76,6 +76,7 @@ _____________
 - [jSONView](https://chrome.google.com/webstore/detail/jsonview/chklaanhfefbnpoihckbnefhakgolnmc?hl=en)
 - [Emmet Re:View](http://re-view.emmet.io/)
 - [Panda Design Inspiration](https://chrome.google.com/webstore/detail/panda-hacker-news-dribbbl/jhiocdmmaannaccoofjfmjpbfkogmnap)
+- [Resolution Test](https://chrome.google.com/webstore/detail/resolution-test/idhfcdbheobinplaamokffboaccidbal)
 
 _____________
 - [PlaceKitten] (http://placekitten.com/)
