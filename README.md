@@ -39,7 +39,16 @@ _____________
      - [ZURB Foundation](http://foundation.zurb.com/)
      - [Eric Meyer's Reset](http://meyerweb.com/eric/thoughts/2011/01/03/reset-revisited/)
      - [Skeleton](http://www.getskeleton.com/)
-
+     - [LoremPixel - placeholder images](http://lorempixel.com/)
+     - [Lipsum - placeholder text](http://lipsum.com/)
+     - [UI Faces](http://uifaces.com/)
+     - [UI Names](http://uinames.com/)
+     - [Random User Generator](http://randomuser.me/)
+     - [Grumpicon - create fallback PNGs for SVG files](http://grumpicon.com/)
+     - [Animate CSS - CSS3 library](http://daneden.github.io/animate.css/)
+     - [Pure - small, responsive CSS modules](http://purecss.io/)
+     - [Unheap - jQuery plugins](http://www.unheap.com/)
+     - [js Beautifier](http://jsbeautifier.org/)
 
 _____________
 
@@ -77,19 +86,6 @@ _____________
 - [Emmet Re:View](http://re-view.emmet.io/)
 - [Panda Design Inspiration](https://chrome.google.com/webstore/detail/panda-hacker-news-dribbbl/jhiocdmmaannaccoofjfmjpbfkogmnap)
 - [Resolution Test](https://chrome.google.com/webstore/detail/resolution-test/idhfcdbheobinplaamokffboaccidbal)
-
-_____________
-- [PlaceKitten] (http://placekitten.com/)
-- [LoremPixel - placeholder images](http://lorempixel.com/)
-- [Lipsum - placeholder text](http://lipsum.com/)
-- [UI Faces](http://uifaces.com/)
-- [UI Names](http://uinames.com/)
-- [Random User Generator](http://randomuser.me/)
-- [Grumpicon - create fallback PNGs for SVG files](http://grumpicon.com/)
-- [Animate CSS - CSS3 library](http://daneden.github.io/animate.css/)
-- [Pure - small, responsive CSS modules](http://purecss.io/)
-- [Unheap - jQuery plugins](http://www.unheap.com/)
-- [js Beautifier](http://jsbeautifier.org/)
 
 
 
