@@ -39,6 +39,8 @@ _____________
      - [ZURB Foundation](http://foundation.zurb.com/)
      - [Eric Meyer's Reset](http://meyerweb.com/eric/thoughts/2011/01/03/reset-revisited/)
      - [Skeleton](http://www.getskeleton.com/)
+
+- Front-End Tools:
      - [LoremPixel - placeholder images](http://lorempixel.com/)
      - [Lipsum - placeholder text](http://lipsum.com/)
      - [UI Faces](http://uifaces.com/)
